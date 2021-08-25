@@ -1,0 +1,7 @@
+numpy==1.20.2
+opencv-contrib-python==4.5.1.48
+opencv-python==4.5.1.48
+pickle-mixin==1.0.2
+openpyxl==3.0.7
+tk==0.1.0
+
